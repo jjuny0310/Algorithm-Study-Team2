@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class bj_4375_yj {
+public class bj_4375_lyj {
     public static int findLength(String input){
         BigInteger n = new BigInteger(input);
         BigInteger value = BigInteger.ZERO;
