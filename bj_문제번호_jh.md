@@ -1,7 +1,7 @@
 문제 회고를 위해 알고리즘 풀이 기록을 남깁니다.
 
 # 백준 문제번호 문제제목
-![문제번호 문제제목](https://www.acmicpc.net/problem/1929)
+[문제번호 문제제목](https://www.acmicpc.net/problem/1929)
 
 ### 문제 이해하기
 1. 
