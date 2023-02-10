@@ -15,6 +15,7 @@
 
 ### 구현 배경 지식
 1. 소수에 대한 이해
+2. 소수 찾기 최적화에 대한 이해
 
 ### 접근 방법을 적용한 코드
 ```java
@@ -38,7 +39,7 @@ public class bj_1978_lyj {
         if (n == 2)
             return true;
 
-        for (int i = 2; i < (Math.sqrt(n) + 1); i++) {
+        for (int i = 2; i < (int)Math.sqrt(n) + 1; i++) {
             if (n % i == 0)
                 return false;
         }
